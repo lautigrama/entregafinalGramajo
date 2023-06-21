@@ -35,4 +35,6 @@ p {
     font-weight:400 ;
     font-size: 16px;
 }
-
+section div ul li{
+    text-decoration: none;
+}
