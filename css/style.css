@@ -1,0 +1,29 @@
+h1 {
+  color: grey;
+  background-color: blanchedalmond;
+  text-decoration: duoble;
+  text-align: center;
+  font-weight: 400px;
+  border: gray 4px nome;
+  padding: 50px;
+  margin: 20px 0px 20px 0px;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.row .container {
+  text-align: center;
+}
+.row .container .row {
+  align-items: center;
+}
+.row .container .row .col ul li {
+  list-style: none;
+}
+
+/*# sourceMappingURL=style.css.map */

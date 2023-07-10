@@ -1,0 +1,13 @@
+h1{
+    color:map-get($h1-titulo, cl);
+    background-color: map-get($h1-titulo, bg);
+    text-decoration: map-get($h1-titulo , td);
+    text-align: map-get($h1-titulo ,tx);
+    font-family: map-get($h1-titulo,ff);
+    font-weight: map-get($h1-titulo , fw );
+    border: map-get($h1-titulo , brd);
+    padding: map-get($h1-titulo , pd);
+    margin: map-get($h1-titulo ,mg );
+    font-size: map-get($h1-titulo ,fz ); 
+     
+}

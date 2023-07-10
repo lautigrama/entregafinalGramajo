@@ -1,0 +1,19 @@
+.row {
+    .container {
+      text-align: center;
+      
+      .row {
+        align-items: center;
+        
+        .col {
+          ul {
+            li {
+              list-style: $txt-list;
+              
+              }
+            }
+          }
+        }
+      }
+    }
+  
